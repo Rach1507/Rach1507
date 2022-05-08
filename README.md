@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rach1507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rachitha 
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Angular and Spring boot
 
-<!---
-Rach1507/Rach1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me 
+
+📧rachitha715@gmail.com
+LinkedIn: https://www.linkedin.com/in/rachitha-b-r-1442961b8/
+
+
+
+
+
